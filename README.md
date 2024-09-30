@@ -2,7 +2,7 @@
 Outil de commande graphique
 
 ## Description
-**DISWORK** est une application conviviale développée en * *AutoIt* * qui permet aux utilisateurs de gérer et d'effectuer des opérations de maintenance système sur Windows. Grâce à une interface graphique simple, **DISWORK** offre une variété de commandes essentielles, notamment :
+**DISWORK** est une application conviviale développée en *AutoIt* qui permet aux utilisateurs de gérer et d'effectuer des opérations de maintenance système sur Windows. Grâce à une interface graphique simple, **DISWORK** offre une variété de commandes essentielles, notamment :
 
 - **DISM** : Outils pour la gestion et la réparation de l'image Windows.
 - **IPCONFIG** : Affiche la configuration réseau de base et permet de gérer les paramètres IP.
@@ -27,7 +27,7 @@ Outil de commande graphique
 ![image](https://github.com/user-attachments/assets/0fc18a1b-81d7-41ae-b77a-ea0aa1d76dc3)
 
 ## Installation
-**Téléchargez** le fichier * *DISWORK.exe* * et lancez-le.
+**Téléchargez** le fichier *DISWORK.exe* et lancez-le.
 
 ## Utilisation
 Pour les commandes ayant besoin de privilèges, l'application les demandera quand vous cliquerez sur le bouton pour exécuter la commande.
