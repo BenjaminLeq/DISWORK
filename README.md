@@ -1,7 +1,7 @@
 # DISWORK
 Outil de commande graphique
 
-##Description##
+## Description
 **DISWORK** est une application conviviale développée en * *AutoIt* * qui permet aux utilisateurs de gérer et d'effectuer des opérations de maintenance système sur Windows. Grâce à une interface graphique simple, **DISWORK** offre une variété de commandes essentielles, notamment :
 
 - **DISM** : Outils pour la gestion et la réparation de l'image Windows.
@@ -10,7 +10,7 @@ Outil de commande graphique
 - **Réparation de disque** : Effectue des vérifications et des réparations du disque dur avec chkdsk.
 - **Nettoyage de disque** : Libère de l'espace disque en supprimant les fichiers temporaires et inutiles.
 
-##Fonctionnalités##
+## Fonctionnalités
 - **Onglets organisés** : Interface structurée en onglets pour un accès rapide aux différentes fonctionnalités.
 - **Commandes DISM** : Exécute des commandes telles que SCANHEALTH, CHECKHEALTH, et RESTOREHEALTH pour gérer l'intégrité de l'image Windows.
 
@@ -26,8 +26,8 @@ Outil de commande graphique
 
 ![image](https://github.com/user-attachments/assets/0fc18a1b-81d7-41ae-b77a-ea0aa1d76dc3)
 
-##Installation##
+## Installation
 **Téléchargez** le fichier * *DISWORK.exe* * et lancez-le.
 
-##Utilisation##
+## Utilisation
 Pour les commandes ayant besoin de privilèges, l'application les demandera quand vous cliquerez sur le bouton pour exécuter la commande.
