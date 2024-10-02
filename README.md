@@ -31,3 +31,6 @@ Outil de commande graphique
 
 ## Utilisation
 Pour les commandes ayant besoin de privilèges, l'application les demandera quand vous cliquerez sur le bouton pour exécuter la commande.
+
+## Mise à jour
+**Version 1.1** : Traduction en anglais de l'application (détecte la langue du clavier).
